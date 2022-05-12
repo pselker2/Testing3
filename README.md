@@ -1,9 +1,9 @@
 # Cisco Kiosk Mode Demo
-### This demo enables calling from a Webex Desk or Board system using       a customizable web page.
+### This demo enables calling from a Webex Desk or Board system using a customizable web page.
 
 ## **Overview**
 
-This Kiosk Mode demo enables a user choose from three options to get support.  After the user chooses an option, a call will be setup with the subject matter expert.
+This Kiosk Mode demo enables a user to choose from three options to get support.  After the user chooses an option, a call will be setup with the subject matter expert.
 
 Below are instructions on how to enable an environment to execute this demo
 
@@ -73,8 +73,7 @@ Below are instructions on how to enable an environment to execute this demo
         - open the file the editor/IDE
         - make changes
         - save changes
-        - up load the new file to the repo with the same procedure in the previous section
-
+        - upload the new file to the repo using the same procedure in the previous section
 1. Open src/main.js
 2. Modify line 22
     - From:  pselker
