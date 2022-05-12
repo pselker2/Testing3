@@ -75,7 +75,7 @@ Files can be edited via two differnt methods:
     - save changes
     - upload the new file to the repo using the same procedure in the previous section
 
-
+---
 
 1. Open src/main.js
 2. Modify line 22
