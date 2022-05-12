@@ -63,7 +63,7 @@ Below are instructions on how to enable an environment to execute this demo
 
 ### **Customize files for your demo**
 
-Files can be edited via two differnt methods:
+Files can be edited via two differnt methods":"
 1. Open the file in the repo
     - click on the file
     - click on the pencil in the upper right
