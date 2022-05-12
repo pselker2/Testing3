@@ -63,17 +63,19 @@ Below are instructions on how to enable an environment to execute this demo
 
 ### **Customize files for your demo**
 
-- Files can be edited via two differnt methods:
-    - Open the file in the repo
-        - click on the file
-        - click on the pencil in the upper right
-        - make the edits 
-        - scroll to the bottom and click the green "Commit changes" button
-    - Open the file with the editor/IDE on your computer
-        - open the file the editor/IDE
-        - make changes
-        - save changes
-        - upload the new file to the repo using the same procedure in the previous section
+Files can be edited via two differnt methods:
+1. Open the file in the repo
+    - click on the file
+    - click on the pencil in the upper right
+    - make the edits 
+    - scroll to the bottom and click the green "Commit changes" button
+2. Open the file with the editor/IDE on your computer
+    - open the file the editor/IDE
+    - make changes
+    - save changes
+    - upload the new file to the repo using the same procedure in the previous section
+
+    
 1. Open src/main.js
 2. Modify line 22
     - From:  pselker
@@ -97,7 +99,7 @@ Below are instructions on how to enable an environment to execute this demo
 
 ---
 
-### **Test the new websiteo**
+### **Test the new website**
 
 1. Go to the web admin of your Webex desk or board endpoint
 2. On the left click Settings
